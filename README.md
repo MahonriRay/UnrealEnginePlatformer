@@ -18,8 +18,8 @@ The languege I used for this project is C++ as is it what the blueprints for thi
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://docs.unrealengine.com/4.26/en-US/Resources/SampleGames/)
-* [Web Site Name](https://www.youtube.com/watch?v=g31NTpq9p-o&t=906s)
+* [Official Unreal Engine Docs](https://docs.unrealengine.com/4.26/en-US/Resources/SampleGames/)
+* [Cobra Code 2D Platformer Tutorial](https://www.youtube.com/watch?v=g31NTpq9p-o&t=906s)
 
 # Future Work
 
