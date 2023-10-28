@@ -11,13 +11,11 @@ As I've stated before, the purpose of this software was for me, as well as other
 # Development Environment
 
 The tools used for this project were the Unreal Engine and it's default IDE that comes from the Epic Games Launcher  
-
-{Describe the programming language that you used and any libraries.}
+  
 The languege I used for this project is C++ as is it what the blueprints for this engine are written in. The process of mapping out blueprints and classes is very intuitive and simple with a great visual that showcases how all of the objects and classes are connected.  
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
+  
 * [Official Unreal Engine Docs](https://docs.unrealengine.com/4.26/en-US/Resources/SampleGames/)
 * [Cobra Code 2D Platformer Tutorial](https://www.youtube.com/watch?v=g31NTpq9p-o&t=906s)
 
